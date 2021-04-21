@@ -13,3 +13,4 @@ project.vim
 .metadata/
 .bloop/
 .metals/
+/project/project/metals.sbt
